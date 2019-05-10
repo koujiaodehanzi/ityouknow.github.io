@@ -227,14 +227,14 @@ disqus:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: koujiaodehanzi
-    repo: koujiaodehanzi.github.io
+    repo: https://koujiaodehanzi.github.io
     oauth:
         client_id: b45e5bb6d29ee36c673d
         client_secret: 52d42bc3f8809994d5987a29241c920152eb63b8
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: koujiaodehanzi
-    repo: koujiaodehanzi.github.io
+    repo: https://koujiaodehanzi.github.io
     clientID: b45e5bb6d29ee36c673d
     clientSecret: 52d42bc3f8809994d5987a29241c920152eb63b8
 # 在使用其它评论组件时可点击显示 Disqus
